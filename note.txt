@@ -1,0 +1,3 @@
+Gunakan NPM Init untuk membuat package json baru -> Inisialisiasi Node Js
+node <namaFileJs> -> menjalankan js
+npm run <bagianObjectScript package json>
